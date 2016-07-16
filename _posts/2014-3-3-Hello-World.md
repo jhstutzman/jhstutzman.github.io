@@ -11,6 +11,6 @@ Testintg these changes.
 ~~strikethrough~~
 __underline__
 
-@[sports night](https://en.wikipedia.org/wiki/Sports_Night "Sports Night")
+[sports night](https://en.wikipedia.org/wiki/Sports_Night "Sports Night")
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
