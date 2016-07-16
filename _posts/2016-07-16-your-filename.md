@@ -1,12 +1,6 @@
 ---
 published: false
 ---
----
-layout:post
-title:Episodes of Violence
-permalink:/episodes_of_violence.html
-
----
 ##Episodes of Violence
 
 The second season of *UnREAL* has consciously moved beyond the criticism of reality TV itself to use reality TV as the mechanism to explore the issues behind the camera. Rachel, the central character of the show, began the series with a backstory, including a failed romantic relationship with a camera operator, Jeremy, who is promoted to director of photography. While their history drove some of the conflict in season one, including a significant scene in the season finale, season two punctuated their relationship with a violent encounter. Having been demoted by the new executive producer (who is also Rachel's new boyfriend), gotten drunk, and then led on a mini-manliness retreat by the erstwhile producer Chet, Jeremy runs into Rachel in a production truck. A short argument ensues and is capped off by Jeremy grabbing, throwing, and hitting Rachel.[^1]
