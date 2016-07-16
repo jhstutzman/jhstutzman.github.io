@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Edited
 published: true
 ---
 
@@ -11,6 +11,6 @@ Testintg these changes.
 ~~strikethrough~~
 __underline__
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+@[sports night](https://en.wikipedia.org/wiki/Sports_Night, "Sports Night")
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+![_config.yml]({{ site.baseurl }}/images/config.png)
