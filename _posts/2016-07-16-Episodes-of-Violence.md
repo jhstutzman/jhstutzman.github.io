@@ -3,8 +3,6 @@ published: true
 title: Episodes of Violence
 date: 2016-07-16T00:00:00.000Z
 ---
-Episodes of Violence
-
 The second season of *UnREAL* has consciously moved beyond the criticism of reality TV itself to use reality TV as the mechanism to explore the issues behind the camera. Rachel, the central character of the show, began the series with a backstory, including a failed romantic relationship with a camera operator, Jeremy, who is promoted to director of photography. While their history drove some of the conflict in season one, including a significant scene in the season finale, season two punctuated their relationship with a violent encounter. Having been demoted by the new executive producer (who is also Rachel's new boyfriend), gotten drunk, and then led on a mini-manliness retreat by the erstwhile producer Chet, Jeremy runs into Rachel in a production truck. A short argument ensues and is capped off by Jeremy grabbing, throwing, and hitting Rachel.[^1]
 
 That episode of UnREAL is obviously not the first depiction of relational violence on TV, but it seems to parallel a 1998 episode of *Sports Night*, the short-lived Aaron Sorkin sitcom set behind the scenes of a nightly cable sports highlight show. In the fifth episode of the first season, a football player is accused of assaulting his ex-girlfriend. The show is able to get an interview with the player on the condition that they do not ask about the accusations. Natalie, an associate producer, is sent to meet with the player for a pre-interview. She comes back with an injured wrist and it is later revealed that the player assaulted her.[^2]
